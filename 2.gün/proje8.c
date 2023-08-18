@@ -1,0 +1,3 @@
+/*•Birtamsayıdizisiniküçüktenbüyüğeartanşekildesıralayanbirfonksiyonoluştu
+runuz.
+ •Parametrelerbirtamsayıişaretçisivetamsayıdizisininuzunluğudur*/

@@ -1,0 +1,3 @@
+/*•Birtamsayıdizisininsırasınıtersinedöndürenbirfonksiyonyazınız(ilkolansona
+ gelecekşekilde,vb).
+ •Parametrelerbirtamsayıişaretçisivetamsayıdizisininuzunluğudur*/

@@ -1,0 +1,2 @@
+/*Birkarakterdizisindekielemanlarısayanvebusayıyıdöndürenbirfonksiyonoluş
+turunuz*/

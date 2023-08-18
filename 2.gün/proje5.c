@@ -1,0 +1,1 @@
+/*•Standart çıktı ya karakter dizisi yazan bir fonksiyon oluşturunuz*/
